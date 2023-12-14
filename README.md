@@ -11,14 +11,12 @@ This repository contains Python code for a regression analysis using the statsmo
 
 ## Files
 
-- **Regression Analysis Notebook:** [`regression_analysis.ipynb`](regression_analysis.ipynb)
+- **Regression Analysis Notebook:** [`house_price_prediction.ipynb`](house_price_prediction.ipynb)
   - Jupyter Notebook containing the step-by-step regression analysis.
 
 - **Data File:** [`train.csv`](train.csv)
   - Dataset used for the analysis: https://www.kaggle.com/datasets/lespin/house-prices-dataset
 
-- **Readme:** [`readme.md`](readme.md)
-  - Documentation explaining the analysis and providing an overview of the files.
 
 ## Steps
 

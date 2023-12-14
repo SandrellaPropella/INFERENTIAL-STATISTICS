@@ -56,7 +56,6 @@ This repository contains Python code for a regression analysis using the statsmo
 
 - The analysis includes steps for handling heteroscedasticity and outliers.
 - Model predictions are visualized using line and scatter plots.
-- The regression summary is saved as both text (`regression_table.txt`) and image (`regression_table.png`).
 
 Feel free to explore the Jupyter Notebook for a detailed walkthrough of the regression analysis.
 

@@ -1,5 +1,7 @@
 # INFERENTIAL-STATISTICS
-
+key messages:
+house prices increase with aircon, but the interaction is only slightly:
+![house_price_interaction](output.png)
 
 # Regression Analysis Readme
 
@@ -13,7 +15,7 @@ This repository contains Python code for a regression analysis using the statsmo
   - Jupyter Notebook containing the step-by-step regression analysis.
 
 - **Data File:** [`train.csv`](train.csv)
-  - Dataset used for the analysis.
+  - Dataset used for the analysis: https://www.kaggle.com/datasets/lespin/house-prices-dataset
 
 - **Readme:** [`readme.md`](readme.md)
   - Documentation explaining the analysis and providing an overview of the files.
@@ -21,7 +23,7 @@ This repository contains Python code for a regression analysis using the statsmo
 ## Steps
 
 1. **Data Loading and Preprocessing:**
-   - Load the dataset (`train.csv`).
+   - Load the dataset (`train.csv`), again from https://www.kaggle.com/datasets/lespin/house-prices-dataset
    - Choose predictors (`SalePrice`, `GrLivArea`, `CentralAir`, `Street`) and encode categorical variables.
 
 2. **Leverage Points Detection:**

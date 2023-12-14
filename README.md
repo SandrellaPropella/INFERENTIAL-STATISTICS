@@ -60,7 +60,3 @@ This repository contains Python code for a regression analysis using the statsmo
 
 Feel free to explore the Jupyter Notebook for a detailed walkthrough of the regression analysis.
 
-## Author
-
-[Your Name]
-
